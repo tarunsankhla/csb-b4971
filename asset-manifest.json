@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tarunsankhla.github.io/csb-b4971/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://tarunsankhla.github.io/csb-b4971/static/js/main.737f749c.chunk.js",
+    "main.js.map": "https://tarunsankhla.github.io/csb-b4971/static/js/main.737f749c.chunk.js.map",
+    "runtime-main.js": "https://tarunsankhla.github.io/csb-b4971/static/js/runtime-main.f1dcc70a.js",
+    "runtime-main.js.map": "https://tarunsankhla.github.io/csb-b4971/static/js/runtime-main.f1dcc70a.js.map",
+    "static/js/2.bda2a90a.chunk.js": "https://tarunsankhla.github.io/csb-b4971/static/js/2.bda2a90a.chunk.js",
+    "static/js/2.bda2a90a.chunk.js.map": "https://tarunsankhla.github.io/csb-b4971/static/js/2.bda2a90a.chunk.js.map",
+    "index.html": "https://tarunsankhla.github.io/csb-b4971/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://tarunsankhla.github.io/csb-b4971/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bda2a90a.chunk.js.LICENSE.txt": "https://tarunsankhla.github.io/csb-b4971/static/js/2.bda2a90a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1dcc70a.js",
+    "static/js/2.bda2a90a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.737f749c.chunk.js"
+  ]
+}
